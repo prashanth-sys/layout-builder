@@ -1,0 +1,63 @@
+/* Write your CSS here */
+.left-navbar {
+  background-color: #e2e8f0;
+  background-size: cover;
+  margin-left: 4%;
+  margin-right: 4%;
+  width: 500px;
+  padding: 9px;
+  margin-top: 5px;
+}
+.left-heading {
+  font-family: 'Roboto';
+  color: #475569;
+  font-weight: bold;
+  margin-left: 9%;
+}
+
+.item {
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-left: 9%;
+  color: #475569;
+}
+.layout-container {
+  display: flex;
+  margin-bottom: 0px;
+}
+.content-container {
+  background-color: #f1f5f9;
+  background-size: cover;
+  margin-right: 4%;
+  margin-left: 0px;
+  width: 500px;
+  padding: 9px;
+  margin-top: 5px;
+}
+.content-heading {
+  font-family: 'Roboto';
+  color: #475569;
+  font-weight: bold;
+  margin-left: 9%;
+}
+.content-description {
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-left: 9%;
+  color: #475569;
+}
+.right-container {
+  background-color: #e2e8f0;
+  background-size: cover;
+  margin-left: 4%;
+  margin-right: 4%;
+  width: 500px;
+  padding: 9px;
+  margin-top: 5px;
+}
+.right-heading {
+  font-family: 'Roboto';
+  color: #475569;
+  font-weight: bold;
+  margin-left: 9%;
+}
